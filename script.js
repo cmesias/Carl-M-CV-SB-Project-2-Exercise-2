@@ -1,6 +1,7 @@
 /*
  Project 2 - Exercise 2: Meeting with Caesar's Best Friend
- 
+ Name: Carl Mesias
+ Date: June 30, 2024
 
 */
 
